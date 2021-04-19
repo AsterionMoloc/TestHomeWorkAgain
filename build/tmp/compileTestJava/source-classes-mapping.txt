@@ -1,4 +1,12 @@
 docs/Junit5Annotations.java
  docs.Junit5Annotations
+docs/SelenideExamples.java
+ docs.SelenideExamples
 tests/TestHomeWorkAgain.java
  tests.TestHomeWorkAgain
+docs/RandomExamples.java
+ docs.RandomExamples
+utils/JavaFaker.java
+ utils.JavaFaker
+utils/RandomUtils.java
+ utils.RandomUtils
